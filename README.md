@@ -137,18 +137,6 @@ pnpm generate -K
 
 ## Thanks
 
-This project was born from solving real-world types problem with [@hardfist](https://github.com/hardfist) and [@MeCKodo](https://github.com/MeCKodo). And great thanks to [@sinoon](https://github.com/sinoon) who contributed a lot while giving early feedback on this project.
-
-### Inspired by
-
-- [piotrwitek/utility-types](https://github.com/piotrwitek/utility-types)
-- [psmyrdek/typescript-challenges](https://github.com/psmyrdek/typescript-challenges)
-- [andnp/SimplyTyped](https://github.com/andnp/SimplyTyped)
-
-### [Contributors](https://github.com/type-challenges/type-challenges/graphs/contributors)
-
-![Contributors](https://contrib.rocks/image?repo=type-challenges/type-challenges)
-
 ## [Star History](https://github.com/type-challenges/type-challenges/stargazers)
 
 <picture>
